@@ -7,6 +7,7 @@ categories:
 tags:
   - Blog
 last_modified_at: 2021-04-11T20:23:00-05:00
+comments : true
 ---
 깃헙 블로그를 하려면
 jeckyll를 공부해야하는데,

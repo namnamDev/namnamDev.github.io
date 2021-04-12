@@ -7,6 +7,8 @@ categories:
 tags:
   - algorithm
 last_modified_at: 2021-04-12 20:38:00-05:00
+
+comments : true
 ---
 아마 내 백준 첫문제였을것이다.
 
