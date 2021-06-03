@@ -2,6 +2,8 @@
 main:
   - title: "Main"
     url: https://namnamdev.github.io/
+  - title: "test_category"
+    url: /categories/test_category/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
