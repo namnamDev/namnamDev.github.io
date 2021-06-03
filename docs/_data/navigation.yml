@@ -20,18 +20,22 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  - title: "블로그"
+    url: "https://namnamdev.github.io/"
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
-  - title: "test_category"
-    url: /categories/test_category/
+  # - title: "Quick-Start Guide"
+  #   url: /docs/quick-start-guide/
+  # - title: "About"
+  #   url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Terms &amp; Privacy Policy"
+  #   url: /terms/
+  # - title: "test_category"
+  #   url: /categories/test_category/
 
 # documentation links
 docs:
